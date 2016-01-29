@@ -1,0 +1,10 @@
+source 'https://rubygems.org'
+
+gem 'selenium-webdriver', '~> 2.41'
+gem 'bundler'
+#gem 'rotp'
+gem 'pry'
+gem 'capybara'
+gem 'rspec'
+#gem 'capybara-screenshot', :group => :test
+gem 'poltergeist'
